@@ -1,0 +1,57 @@
+
+.pagina {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.titulo-principal {
+    color: red;
+    text-align: center;
+}
+
+
+.subtitulo {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+
+.contenido {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.texto {
+    font-size: 16px;
+}
+
+
+.linea {
+    border: none;
+    height: 5px;
+    background-color: black;
+    margin: 15px 0;
+}
+
+
+.container {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.container2 {
+    float: left;
+    width: calc(100% - 220px);
+}
+
+.container3{
+   width: calc(100% - 220px);
+}
